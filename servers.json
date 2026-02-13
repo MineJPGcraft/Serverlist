@@ -105,5 +105,15 @@
       "link": "https://mcpcc.fun",
       "ip": "chat.mcpcc.fun:13123"
     }
+    {
+      "id": "9",
+      "name": "风之羽",
+      "type": "生存",
+      "version": "1.21.7",
+      "icon": "https://serverlist.mcjpg.org/icons/fzy.png",
+      "description": "原版插件生存、生电、建筑服务器，不限制红石，支持正版登陆，基岩版可在官网自动审核后进入，服务器已经运行近两年，承诺不会更换周目，持续更新维护，欢迎加入～",
+      "link": "https://www.fengzhiyu.top",
+      "ip": "fengzhiyu.top"
+    }
   ]
 }
