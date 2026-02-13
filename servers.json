@@ -28,10 +28,10 @@
     {
       "id": "1",
       "name": "ATCraftMC",
-      "type": "生存",
+      "type": "群组服",
       "version": "互通",
       "icon": "https://serverlist.mcjpg.org/icons/AT.png",
-      "description": "ATCraftMC 由一群志同道合的腐竹和玩家联合组成。 秉持着开放、包容、共享的理念，我们持续添加新的游戏玩法， 以及激动人心的活动，为玩家提供新鲜刺激的游戏体验。",
+      "description": "ATCraftMC由一群志同道合玩家联合组成。秉持着开放、包容、共享的理念。为玩家提供包含生存到创造，从原版到模组的多种玩法。无论探险，枪战，还是创造，设计，我们都有适合你的游戏内容。",
       "link": "https://atcraftmc.cn",
       "ip": "game.atcraftmc.cn"
     },
