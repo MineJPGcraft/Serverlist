@@ -104,6 +104,16 @@
       "description": "版本：1.21.x  欢迎来到PlayChessClub，一个温馨和谐的公益服务器。无论您是寻找稳定流畅的游戏体验，还是希望在友好的社区中结交新朋友，PCC都能足您的需求。从一周目到三周目，PCC一直致力于提供优质的生存以及特色玩法。诚邀您的加入！ 点击后进入官网加入服务器！",
       "link": "https://mcpcc.fun",
       "ip": "chat.mcpcc.fun:13123"
+    },
+    {
+      "id": "9",
+      "name": "风之羽",
+      "type": "生存",
+      "version": "1.21.7",
+      "icon": "https://serverlist.mcjpg.org/icons/FengZhiYu.png",
+      "description": "原版插件生存、生电、建筑服务器，不限制红石，支持正版登陆，基岩版可在官网自动审核后进入，服务器已经运行近两年，承诺不会更换周目，持续更新维护，欢迎加入～",
+      "link": "https://www.fengzhiyu.top",
+      "ip": "fengzhiyu.top"
     }
   ]
 }
