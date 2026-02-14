@@ -134,6 +134,16 @@
       "description": "原版公益，Java基岩互通服，支持生存创造模式自由切换。",
       "link": "https://limitlessblocks.org",
       "ip": "mc.limitlessblocks.org:19212"
+    },
+    {
+      "id": "12",
+      "name": "WMSMC",
+      "type": "生存",
+      "version": "1.21.4",
+      "icon": "https://serverlist.mcjpg.org/icons/WMS.png",
+      "description": "WMSMC[1.8.x-最新版本]是一个RPG生存服务器,开服于2021年、离线登录、需要白名单（进Q群自助申请，多种优质副本等你挑战!!!!服务器官网：https://wanys.xyz",
+      "link": "https://wanys.xyz",
+      "ip": "mc.wanys.xyz"
     }
   ]
 }
