@@ -144,6 +144,16 @@
       "description": "WMSMC[1.8.x-最新版本]是一个RPG生存服务器,开服于2021年、离线登录、需要白名单（进Q群自助申请，多种优质副本等你挑战!!!!服务器官网：https://wanys.xyz",
       "link": "https://wanys.xyz",
       "ip": "mc.wanys.xyz"
+    },
+    {
+      "id": "13",
+      "name": "千禧年世界",
+      "type": "生存",
+      "version": "1.21.8",
+      "icon": "https://serverlist.mcjpg.org/icons/QXNWorld.png",
+      "description": "千禧年世界v5.5上线了！",
+      "link": "https://qxn.world",
+      "ip": "play.qxn.world"
     }
   ]
 }
