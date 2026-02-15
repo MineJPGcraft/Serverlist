@@ -133,10 +133,6 @@
             transform: translateY(0);
         }
 
-        .copy-btn.copied {
-            background: var(--success-color);
-        }
-
         .section {
             background: var(--card-bg);
             border-radius: 15px;
@@ -427,6 +423,12 @@
             font-family: 'Courier New', monospace;
         }
 
+        .icon {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+        }
+
         .tabs {
             display: flex;
             gap: 10px;
@@ -443,10 +445,6 @@
             transition: all 0.3s;
         }
 
-        .tab:hover {
-            background: rgba(76, 175, 80, 0.1);
-        }
-
         .tab.active {
             background: var(--primary-color);
             border-color: var(--primary-color);
@@ -458,34 +456,6 @@
 
         .tab-content.active {
             display: block;
-        }
-
-        .back-to-top {
-            position: fixed;
-            bottom: 30px;
-            right: 30px;
-            background: var(--primary-color);
-            color: white;
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            display: none;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            font-size: 1.5em;
-            box-shadow: 0 4px 15px rgba(76, 175, 80, 0.4);
-            transition: all 0.3s;
-            z-index: 1000;
-        }
-
-        .back-to-top:hover {
-            background: #45a049;
-            transform: translateY(-5px);
-        }
-
-        .back-to-top.show {
-            display: flex;
         }
     </style>
 </head>
@@ -508,13 +478,13 @@
             <div class="api-endpoint">
                 <h3>🌐 MCJPG CDN（推荐）</h3>
                 <code>https://serverlist.mcjpg.org/servers.json</code>
-                <button class="copy-btn" onclick="copyToClipboard('https://serverlist.mcjpg.org/servers.json', this)">复制</button>
+                <button class="copy-btn" onclick="copyToClipboard('https://serverlist.mcjpg.org/servers.json')">复制</button>
             </div>
 
             <div class="api-endpoint">
                 <h3>📦 GitHub Raw</h3>
                 <code>https://raw.githubusercontent.com/MineJPGcraft/Serverlist/main/servers.json</code>
-                <button class="copy-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/MineJPGcraft/Serverlist/main/servers.json', this)">复制</button>
+                <button class="copy-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/MineJPGcraft/Serverlist/main/servers.json')">复制</button>
             </div>
 
             <div class="action-buttons">
@@ -858,4 +828,28 @@ function ServerList() {
                         <tr>
                             <td>🎮 小游戏</td>
                             <td>各类小游戏服务器</td>
-                            <td>跑酷、P
+                            <td>跑酷、PVP 竞技</td>
+                        </tr>
+                        <tr>
+                            <td>⚔️ RPG</td>
+                            <td>角色扮演服务器</td>
+                            <td>魔法世界、任务冒险</td>
+                        </tr>
+                        <tr>
+                            <td>🏝️ 空岛</td>
+                            <td>空岛生存类型</td>
+                            <td>传统空岛、科技空岛</td>
+                        </tr>
+                        <tr>
+                            <td>🛏️ 起床战争</td>
+                            <td>起床战争玩法</td>
+                            <td>标准起床、变种起床</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="info-box">
+                <strong>💡 提示：</strong>如需添加新类型，请在 PR 或 Issue 中说明。
+            </div>
+        </div>
