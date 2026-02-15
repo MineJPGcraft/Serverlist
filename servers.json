@@ -154,6 +154,16 @@
       "description": "千禧年世界-始于2023\n一个群组服务器(虽然并不完美)。\n有生存，小游戏等等多种玩法...\n也有奇怪的玩法....(例如主城生存)\n拥有物理服务器，保证永不跑路\n多个线路可保证玩家稳定连接\n快来加入我们!",
       "link": "https://qxn.world",
       "ip": "play.qxn.world"
+    },
+    {
+      "id": "14",
+      "name": "星光StarShine",
+      "type": "生存",
+      "version": "1.21.4",
+      "icon": "https://serverlist.mcjpg.org/icons/StarShine.png",
+      "description": "StarShineMC | 长期运行的生存向服务器，社区和谐活跃，欢迎你的加入。",
+      "link": "https://www.8bc.top",
+      "ip": "mc.8bc.top:40001"
     }
   ]
 }
