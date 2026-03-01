@@ -57,16 +57,6 @@
       "ip": "coldmouse.cn"
     },
     {
-      "id": "4",
-      "name": "崩喵BNK",
-      "type": "群组服",
-      "version": "1.21.X",
-      "icon": "https://serverlist.mcjpg.org/icons/BNK.jpg",
-      "description": "允许生电，支持离线！公益开服，快乐至上！超高配置，不易卡顿！",
-      "link": "https://www.bnkcat.cn/",
-      "ip": "bnkcat.cn"
-    },
-    {
       "id": "5",
       "name": "BlockMax",
       "type": "生存",
