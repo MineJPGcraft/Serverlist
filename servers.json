@@ -165,16 +165,6 @@
       "description": "新春佳节 让我们一起团聚\n在小游戏派对的欢声笑语中 创造出最难忘的夜晚!\nPVP/迷宫/狼人杀/起床战争/...",
       "link": "https://mcjpg.org",
       "ip": "festival.mcjpg.org"
-    },
-    {
-      "id": "16",
-      "name": "Infinite",
-      "type": "无政府",
-      "version": "1.21.11",
-      "icon": "https://serverlist.mcjpg.org/icons/Infinite.png",
-      "description": "一处移除所有保护插件的社会实验场，这里的唯一规则是弱肉强食——你，敢来测试自己的人性底线吗？",
-      "link": "https://www.unborder.online",
-      "ip": "unborder.online"
     }
   ]
 }
