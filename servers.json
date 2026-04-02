@@ -175,6 +175,16 @@
       "description": "【幻想乡的世界，等你来探险】 极致优化 & 纯净生存 欢迎来到由 蕾米莉亚・斯卡雷特 女主人运营的纯净生存服务器！ 本服务器不使用MOD，支持 1.21.11 版本，经过精心优化，确保你能够享受流畅稳定的游戏体验。 白名单 需加群获取 ✦ 服务器特点 ✦ 极致优化：高性能服务器，告别卡顿与延迟，稳定流畅运行。 纯净生存：没有MOD的纯粹世界，给你最真实的生存体验。 幻想乡风格：美丽的自然景观与创意建筑，将带你进入一个如梦似幻的世界。 加入我们，开启冒险之旅 立即加入",
       "link": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-xPMAKIcQPgzFpbjLC08I7hoShxnOhW3&authKey=qnKHRo2QhH9arYtSOW99%2FPp7tCoXcdSddAYiwmKmw1HG8hJ1TRgl55%2BBNCkB3YB%2F&noverify=0&group_code=936846531",
       "ip": "koumakanmc.site:36540"
+    },
+    {
+      "id": '52', 
+      "name": "滚牧天下 (CM)", 
+      "type": "生存", 
+      "version": "26w14a", 
+      "icon": "https://serverlist.mcjpg.org/icons/cm_herdcraft_logo.png", 
+      "description": "26w14a愚人节版本服务器，搭载于Cold Mouse团队的稳定硬件上，是您与朋友欢度愚人节的最佳地点", 
+      "link": "https://www.yuque.com/shimamuratako/cm_enhanced/kmgrdrryqsulab5e", 
+      "ip": "coldmouse.net:40344" 
     }
   ]
 }
