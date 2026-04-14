@@ -6,7 +6,8 @@
     "模组",
     "小游戏",
     "群组服",
-    "无政府"
+    "无政府",
+    "PVP"
   ],
   "versions": [
     "中国版",
@@ -177,7 +178,7 @@
       "ip": "koumakanmc.site:36540"
     },
     {
-      "id": "52", 
+      "id": "17", 
       "name": "滚牧天下 (CM)", 
       "type": "生存", 
       "version": "26w14a", 
@@ -185,6 +186,36 @@
       "description": "26w14a愚人节版本服务器，搭载于Cold Mouse团队的稳定硬件上，是您与朋友欢度愚人节的最佳地点", 
       "link": "https://www.yuque.com/shimamuratako/cm_enhanced/kmgrdrryqsulab5e", 
       "ip": "coldmouse.net:40344" 
+    },
+    {
+      "id": "18",
+      "name": "RedStarMC",
+      "type": "生存",
+      "version": "1.21.1",
+      "icon": "/logo.png",
+      "description": "粘液科技，生电",
+      "link": "https://www.redstarmc.top",
+      "ip": "mc.redstarmc.top"
+    },
+    {
+      "id": "19",
+      "name": "MCUNC",
+      "type": "生存",
+      "version": "1.21.11",
+      "icon": "https://serverlist.mcjpg.org/icons/MCUNC.png",
+      "description":"MCUNC 群组服",
+      "link": "https://www.mcunc.cn",
+      "ip": "mcunc.cn"
+    },
+    {
+      "id": "20",
+      "name": "cntier",
+      "type": "PVP",
+      "version": "1.21.11",
+      "icon": "https://serverlist.mcjpg.org/icons/cntier.png",
+      "description":"CNTIER服务器\nCNTIER是CNTIER榜单的官方服务器，为高版本PVP玩家提供优质的战斗体验，你可以在FFA寻找对手提升技术，也可以在决斗中验证自己\n实力！\n我想不到写啥了因为cntier没啥东西可以写\n进服条件：需要正版账号\n允许版本：1.21-1.21.11\n服务器IP：cntier.club\n服务器群号：1003975939、1012649925\n服务器地区：华东",
+      "link": "https://cntier.win",
+      "ip": "cntier.win"
     }
   ]
 }
