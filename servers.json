@@ -6,7 +6,8 @@
     "模组",
     "小游戏",
     "群组服",
-    "无政府"
+    "无政府",
+    "PVP"
   ],
   "versions": [
     "中国版",
@@ -205,6 +206,16 @@
       "description":"MCUNC 群组服",
       "link": "https://www.mcunc.cn",
       "ip": "mcunc.cn"
+    },
+    {
+      "id": "20",
+      "name": "cntier",
+      "type": "PVP",
+      "version": "1.21.11",
+      "icon": "https://serverlist.mcjpg.org/icons/cntier.png",
+      "description":"CNTIER服务器\nCNTIER是CNTIER榜单的官方服务器，为高版本PVP玩家提供优质的战斗体验，你可以在FFA寻找对手提升技术，也可以在决斗中验证自己\n实力！\n我想不到写啥了因为cntier没啥东西可以写\n进服条件：需要正版账号\n允许版本：1.21-1.21.11\n服务器IP：cntier.club\n服务器群号：1003975939、1012649925\n服务器地区：华东",
+      "link": "https://cntier.win",
+      "ip": "cntier.win"
     }
   ]
 }
