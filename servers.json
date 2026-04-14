@@ -177,7 +177,7 @@
       "ip": "koumakanmc.site:36540"
     },
     {
-      "id": "52", 
+      "id": "17", 
       "name": "滚牧天下 (CM)", 
       "type": "生存", 
       "version": "26w14a", 
@@ -185,6 +185,16 @@
       "description": "26w14a愚人节版本服务器，搭载于Cold Mouse团队的稳定硬件上，是您与朋友欢度愚人节的最佳地点", 
       "link": "https://www.yuque.com/shimamuratako/cm_enhanced/kmgrdrryqsulab5e", 
       "ip": "coldmouse.net:40344" 
+    },
+    {
+      "id": "18",
+      "name": "RedStarMC",
+      "type": "生存",
+      "version": "1.21.1",
+      "icon": "/logo.png",
+      "description": "粘液科技，生电",
+      "link": "https://www.redstarmc.top",
+      "ip": "mc.redstarmc.top"
     }
   ]
 }
