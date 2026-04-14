@@ -195,6 +195,16 @@
       "description": "粘液科技，生电",
       "link": "https://www.redstarmc.top",
       "ip": "mc.redstarmc.top"
+    },
+    {
+      "id": "19",
+      "name": "MCUNC",
+      "type": "生存",
+      "version": "1.21.11",
+      "icon": "https://serverlist.mcjpg.org/icons/MCUNC.png",
+      "description":"MCUNC 群组服",
+      "link": "https://www.mcunc.cn",
+      "ip": "mcunc.cn"
     }
   ]
 }
