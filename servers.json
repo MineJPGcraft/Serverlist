@@ -178,17 +178,7 @@
       "ip": "koumakanmc.site:36540"
     },
     {
-      "id": "17", 
-      "name": "滚牧天下 (CM)", 
-      "type": "生存", 
-      "version": "26w14a", 
-      "icon": "https://serverlist.mcjpg.org/icons/cm_herdcraft_logo.png", 
-      "description": "26w14a愚人节版本服务器，搭载于Cold Mouse团队的稳定硬件上，是您与朋友欢度愚人节的最佳地点", 
-      "link": "https://www.yuque.com/shimamuratako/cm_enhanced/kmgrdrryqsulab5e", 
-      "ip": "coldmouse.net:40344" 
-    },
-    {
-      "id": "18",
+      "id": "17",
       "name": "RedStarMC",
       "type": "生存",
       "version": "1.21.1",
@@ -198,7 +188,7 @@
       "ip": "mc.redstarmc.top"
     },
     {
-      "id": "19",
+      "id": "18",
       "name": "MCUNC",
       "type": "生存",
       "version": "1.21.11",
@@ -208,7 +198,7 @@
       "ip": "mcunc.cn"
     },
     {
-      "id": "20",
+      "id": "19",
       "name": "cntier",
       "type": "PVP",
       "version": "1.21.11",
