@@ -11,8 +11,8 @@
   ],
   "versions": [
     "中国版",
-    "互通",
     "基岩版",
+    "互通",
     "1.21.X",
     "1.21.11",
     "1.21.10",
@@ -184,19 +184,6 @@
       "id": 11
     },
     {
-      "uuid": "9c9b5ec9-05f4-4b24-8953-76190b2ea1d8",
-      "name": "cntier",
-      "type": "PVP",
-      "version": "1.21.11",
-      "icon": "https://serverlist.mcjpg.org/icons/cntier.png",
-      "description": "CNTIER服务器\nCNTIER是CNTIER榜单的官方服务器，为高版本PVP玩家提供优质的战斗体验，你可以在FFA寻找对手提升技术，也可以在决斗中验证自己的实力！\n我想不到写啥了因为cntier没啥东西可以写\n进服条件：需要正版账号\\n允许版本：1.21-1.21.11\n服务器IP：cntier.club\n服务器群号：1003975939、1012649925\n服务器地区：华东",
-      "link": "https://cntier.win",
-      "ip": "cntier.win",
-      "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
-      "owner_name": "Zhu_Yuxuan",
-      "id": 12
-    },
-    {
       "uuid": "8c9f6a63-0a14-4f3f-9cbb-678bd840ac5d",
       "name": "千禧年世界",
       "type": "生存",
@@ -207,7 +194,7 @@
       "ip": null,
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "owner_name": "Zhu_Yuxuan",
-      "id": 13
+      "id": 12
     },
     {
       "uuid": "92a1d1f5-cd40-427c-9ab1-73e701c21266",
@@ -220,7 +207,7 @@
       "ip": "orwoe.cn",
       "userid": "5baef61d-47c4-43d6-8953-2086c667034d",
       "owner_name": "winter0203",
-      "id": 14
+      "id": 13
     },
     {
       "uuid": "b06f4a7c-800b-4515-acc0-15f10295df01",
@@ -233,6 +220,19 @@
       "ip": null,
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "owner_name": "Zhu_Yuxuan",
+      "id": 14
+    },
+    {
+      "uuid": "9c9b5ec9-05f4-4b24-8953-76190b2ea1d8",
+      "name": "cntier",
+      "type": "PVP",
+      "version": "1.21.11",
+      "icon": "https://serverlist.mcjpg.org/icons/cntier.png",
+      "description": "CNTIER服务器\nCNTIER是CNTIER榜单的官方服务器，为高版本PVP玩家提供优质的战斗体验，你可以在FFA寻找对手提升技术，也可以在决斗中验证自己的实力！\n我想不到写啥了因为cntier没啥东西可以写\n进服条件：需要正版账号\\n允许版本：1.21-1.21.11\n服务器IP：cntier.club\n服务器群号：1003975939、1012649925\n服务器地区：华东",
+      "link": "https://cntier.win",
+      "ip": "cntier.win",
+      "userid": "a2f91593-5598-42ae-88b1-8a6ea5379e22",
+      "owner_name": "rosemary",
       "id": 15
     },
     {
