@@ -98,20 +98,6 @@
       "id": 4
     },
     {
-      "uuid": "68cabf2e-4aca-41ed-9040-d364594e7880",
-      "name": "剑客群组服",
-      "type": "群组服",
-      "version": "1.20.1",
-      "icon": "https://serverlist.mcjpg.org/icons/SwordsMan.png",
-      "description": "🌍 剑客群组服，2026，全新启航！\n✨ 这是一个多玩法的模组 Minecraft 服务器\n🎉这是我们坚持公益的第1.5年\n❤爱发电是我们的宗旨\n🎈各种活动不定期举办\n🎊IPv6+多IPv4隧道连接，确保服务器的稳定流畅！\n🎉 放心游玩，较稳定宣传，期待你的加入\n🔥帝国之辉，终不熄灭的光！",
-      "link": "https://swordsman.top",
-      "ip": "ipv6.swordsman.top:12481",
-      "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
-      "picture": null,
-      "owner_name": "Zhu_Yuxuan",
-      "id": 5
-    },
-    {
       "uuid": "1a8d7b7e-1bc8-455c-a7e5-5fce77a550b2",
       "name": "方块无界Limitless Blocks",
       "type": "创造",
@@ -123,7 +109,7 @@
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "picture": null,
       "owner_name": "Zhu_Yuxuan",
-      "id": 6
+      "id": 5
     },
     {
       "uuid": "ab5890e1-46d7-4ba4-a136-c3ab4e7451c7",
@@ -137,7 +123,7 @@
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "picture": null,
       "owner_name": "Zhu_Yuxuan",
-      "id": 7
+      "id": 6
     },
     {
       "uuid": "0975b527-2a34-4422-87fb-beed78e80640",
@@ -151,7 +137,7 @@
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "picture": null,
       "owner_name": "Zhu_Yuxuan",
-      "id": 8
+      "id": 7
     },
     {
       "uuid": "5695a122-f6f0-4969-9dc9-aa7f5463aef9",
@@ -165,7 +151,7 @@
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "picture": null,
       "owner_name": "Zhu_Yuxuan",
-      "id": 9
+      "id": 8
     },
     {
       "uuid": "8c9f6a63-0a14-4f3f-9cbb-678bd840ac5d",
@@ -179,7 +165,7 @@
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "picture": null,
       "owner_name": "Zhu_Yuxuan",
-      "id": 10
+      "id": 9
     },
     {
       "uuid": "d6b43dee-dc94-4776-8fff-61aa094ed069",
@@ -193,7 +179,7 @@
       "userid": "1a1c819d-a0b4-4859-a32a-a12358ad6936",
       "picture": [],
       "owner_name": "tuboshu",
-      "id": 11
+      "id": 10
     },
     {
       "uuid": "b06f4a7c-800b-4515-acc0-15f10295df01",
@@ -207,21 +193,7 @@
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "picture": null,
       "owner_name": "Zhu_Yuxuan",
-      "id": 12
-    },
-    {
-      "uuid": "9c9b5ec9-05f4-4b24-8953-76190b2ea1d8",
-      "name": "cntier",
-      "type": "PVP",
-      "version": "1.21.11",
-      "icon": "https://serverlist.mcjpg.org/icons/cntier.png",
-      "description": "CNTIER服务器\nCNTIER是CNTIER榜单的官方服务器，为高版本PVP玩家提供优质的战斗体验，你可以在FFA寻找对手提升技术，也可以在决斗中验证自己的实力！\n我想不到写啥了因为cntier没啥东西可以写\n进服条件：需要正版账号\\n允许版本：1.21-1.21.11\n服务器IP：cntier.club\n服务器群号：1003975939、1012649925\n服务器地区：华东",
-      "link": "https://cntier.win",
-      "ip": "cntier.win",
-      "userid": "a2f91593-5598-42ae-88b1-8a6ea5379e22",
-      "picture": null,
-      "owner_name": "rosemary",
-      "id": 13
+      "id": 11
     },
     {
       "uuid": "92a1d1f5-cd40-427c-9ab1-73e701c21266",
@@ -235,7 +207,7 @@
       "userid": "5baef61d-47c4-43d6-8953-2086c667034d",
       "picture": null,
       "owner_name": "winter0203",
-      "id": 14
+      "id": 12
     },
     {
       "uuid": "4bf76ac9-cd64-4b43-82cb-3c631d1bfd9d",
@@ -249,6 +221,34 @@
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "picture": [],
       "owner_name": "Zhu_Yuxuan",
+      "id": 13
+    },
+    {
+      "uuid": "68cabf2e-4aca-41ed-9040-d364594e7880",
+      "name": "剑客群组服",
+      "type": "群组服",
+      "version": "1.20.1",
+      "icon": "https://serverlist.mcjpg.org/icons/SwordsMan.png",
+      "description": "🌍剑客群组服，2026，全新启航！\n✨这是一个多玩法的模组 Minecraft 服务器\n🎉这是我们坚持公益的第1.5年\n❤爱发电是我们的宗旨\n🎈各种活动不定期举办\n🎊IPv6+多IPv4隧道连接，确保服务器的稳定流畅！\n🎉放心游玩，较稳定宣传，期待你的加入\n🔥帝国之辉，终不熄灭的光！",
+      "link": "https://swordsman.top",
+      "ip": null,
+      "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
+      "picture": [],
+      "owner_name": "Zhu_Yuxuan",
+      "id": 14
+    },
+    {
+      "uuid": "9c9b5ec9-05f4-4b24-8953-76190b2ea1d8",
+      "name": "CNTier",
+      "type": "PVP",
+      "version": "1.21.11",
+      "icon": "https://serverlist.mcjpg.org/icons/cntier.png",
+      "description": "CNTIER服务器\nCNTIER是CNTIER榜单的官方服务器，为高版本PVP玩家提供优质的战斗体验，你可以在FFA寻找对手提升技术，也可以在决斗中验证自己的实力！\n我想不到写啥了因为cntier没啥东西可以写\n进服条件：需要正版账号\\n允许版本：1.21-1.21.11\n服务器IP：cntier.club\n服务器群号：1003975939、1012649925\n服务器地区：华东",
+      "link": "https://cntier.win",
+      "ip": "cntier.club",
+      "userid": "a2f91593-5598-42ae-88b1-8a6ea5379e22",
+      "picture": [],
+      "owner_name": "rosemary",
       "id": 15
     },
     {
