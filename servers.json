@@ -254,25 +254,6 @@
       "id": 15
     },
     {
-      "uuid": "583f2357-8cec-4fe9-8903-cd5028142a90",
-      "name": "Cold Mouse",
-      "type": "群组服",
-      "version": "互通",
-      "icon": "https://serverlist.mcjpg.org/icons/ColdMouse.png",
-      "description": "Cold Mouse 是一站式MC群组服，提供RPG生存、创造、空岛、小游戏等多种玩法。\n本服自2022年起稳定运营，专注于高版本休闲体验与和谐社区建设。\n欢迎来到这个更快、更稳、更有氛围的方块世界。\n点击此卡片进入官网，查看文档或加群了解更多~",
-      "link": "https://coldmouse.cn/",
-      "ip": null,
-      "userid": "f6db3ed4-a046-4583-ba41-09cede8e4f7d",
-      "picture": [
-        "https://image.mcjpg.org/file/1781758638990_cm_art1.png",
-        "https://image.mcjpg.org/file/1781758673694_cm_art_fantasy.png",
-        "https://image.mcjpg.org/file/1781758786892_cm_island_art.png",
-        "https://image.mcjpg.org/file/1781758677763_cm_art_build.png"
-      ],
-      "owner_name": "Shimamura-Tako",
-      "id": 16
-    },
-    {
       "uuid": "dc40b816-cf67-40af-9034-09ea2267fb31",
       "name": "花枝鹦鹉",
       "type": "生电",
@@ -284,6 +265,25 @@
       "userid": "0878212e-55d8-4173-8799-01ff133eee30",
       "picture": [],
       "owner_name": "Sam11235",
+      "id": 16
+    },
+    {
+      "uuid": "583f2357-8cec-4fe9-8903-cd5028142a90",
+      "name": "Cold Mouse",
+      "type": "群组服",
+      "version": "1.21.X",
+      "icon": "https://serverlist.mcjpg.org/icons/ColdMouse.png",
+      "description": "Cold Mouse 是一站式MC群组服，提供RPG生存、创造、空岛、小游戏等多种玩法。\n本服自2022年起稳定运营，专注于高版本休闲体验与和谐社区建设。\n欢迎来到这个更快、更稳、更有氛围的方块世界。\n点击下方按钮进入官网，查看文档或加群了解更多~",
+      "link": "https://coldmouse.net/",
+      "ip": "coldmouse.net",
+      "userid": "f6db3ed4-a046-4583-ba41-09cede8e4f7d",
+      "picture": [
+        "https://image.mcjpg.org/file/1781758638990_cm_art1.png",
+        "https://image.mcjpg.org/file/1781758673694_cm_art_fantasy.png",
+        "https://image.mcjpg.org/file/1781758786892_cm_island_art.png",
+        "https://image.mcjpg.org/file/1781758677763_cm_art_build.png"
+      ],
+      "owner_name": "Shimamura-Tako",
       "id": 17
     }
   ]
